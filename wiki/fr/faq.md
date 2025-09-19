@@ -1,1 +1,1 @@
-faq
+faq faq faq faq
